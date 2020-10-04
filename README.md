@@ -16,8 +16,8 @@ The ANAC website contains information on all flights in Brazil since 2000, group
 
 - `pip install -r requirements.txt`
 
-2) run the python file get-anac-dataset.py in a best directory for you.
+2) run the python file get-anac-dataset.py (inside /anac/dataset/)in a best directory for you.
 
-Write the following command in a command line:
+   Write the following command in a command line:
 
 - `python get-anac-dataset.py`
