@@ -8,7 +8,7 @@ ANAC is a federal regulatory agency whose responsibility is to standardize and s
 
 # About the code and data
 
-The ANAC website contains information on all flights in Brazil since 2000, grouped month by month. The idea of ​​the code is to scan the site looking for links to each of the files, organizing them and at the end, concatenating them in a single dataset of information. Later, these data can be used in an exploratory analysis or in the development of a machine learning model
+The ANAC website contains information on all flights in Brazil since 2000, grouped month by month. The idea of the code is to scan the site looking for links to each of the files, organizing them and at the end, concatenating them in a single dataset of information. Later, these data can be used in an exploratory analysis or in the development of a machine learning model
 
 # How to run it
 
@@ -16,8 +16,8 @@ The ANAC website contains information on all flights in Brazil since 2000, group
 
 - `pip install -r requirements.txt`
 
-2) run the python file get-anac-dataset.py (inside /anac/dataset/)in a best directory for you.
+2) run the python file get-anac-dataset.py (inside /anac/dataset/) in the best directory for you.
 
-   Write the following command in a command line:
+  Write the following command in a command line:
 
 - `python get-anac-dataset.py`
