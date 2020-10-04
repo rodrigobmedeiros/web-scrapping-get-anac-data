@@ -1,0 +1,8 @@
+lxml.html
+requests
+wget
+timeit
+os
+pandas
+zipfile
+shutil
